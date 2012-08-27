@@ -1,8 +1,8 @@
-lively-logic
+LivelyLogic-This is a game logic real-time adjustment framework.
 ============
 
 This is a game logic real-time adjustment framework, using the racket language.
- * homepage: <https://github.com/NetEase/lively-logic>
+ * Homepage: <https://github.com/NetEase/lively-logic>
  * Wiki: <https://github.com/NetEase/lively-logic/wiki/>
  * Issues: <https://github.com/NetEase/lively-logic/issues/>
  * Tags: racket, lisp, game, framework
@@ -14,7 +14,7 @@ clone this repo
 
     git clone git://github.com/NetEase/lively-logic.git
 
-This project use racket languages, so need to install the racket. Racket's official website is: < http://racket-lang.org/ >. 
+This project use racket languages, so need to install the racket. Racket's official website is: <http://racket-lang.org/>. 
 After the installation is complete, open src/pallet - game.rkt, and then click run.
 
 Document
